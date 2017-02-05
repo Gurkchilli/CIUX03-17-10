@@ -1,0 +1,2 @@
+Om det behövs, skriv en kort beskrivning om vad ditt miniprojekt gör.
+Exempelvis: "Minitable_Erik, Moves a table using forces."
